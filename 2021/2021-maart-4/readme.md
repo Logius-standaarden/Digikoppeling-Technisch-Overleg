@@ -5,7 +5,7 @@ Het TO wordt gehouden van 13:30 - 15:00 via Webex. De uitnodiging is per email v
 
 ## Links naar de agendastukken
 
-- [**Agenda (pdf)**](2021/2021-maart-4/Agenda_TO_DK_4_maart_2021.pdf)/[Agenda (md)](Agenda_TO_DK_4_maart_2021.md)
+- [**Agenda (pdf)**](Agenda_TO_DK_4_maart_2021.pdf)/[Agenda (md)](Agenda_TO_DK_4_maart_2021.md)
 - [**Concept verslag (pdf)**](Bijlage_2.1_Concept_verslag_TO_DK_10_december_2020.pdf)/[Concept verslag (md)](Bijlage_2.1_Concept_verslag_TO_DK_10_december_2020.md) 
 - Digikoppeling API Profiel
   - [**Oplegnotitie Digikoppeling API Profiel**](dkapi.md)
