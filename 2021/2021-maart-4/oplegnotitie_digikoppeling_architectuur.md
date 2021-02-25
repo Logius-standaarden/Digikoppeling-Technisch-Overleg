@@ -13,7 +13,7 @@ De huidige versie van de Digikoppeling Architectuur dient als basis. Bij de besp
 
 ## Gevraagd besluit van het TO
 
-> **Het TO wordt gevraagd om de voorgelegde versie van de Digikoppeling Architectuur vast te stellen.**
+> **`Het TO wordt gevraagd om de voorgelegde versie van de Digikoppeling Architectuur vast te stellen.`**
 
 
 
