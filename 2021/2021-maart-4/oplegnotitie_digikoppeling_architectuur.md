@@ -21,23 +21,22 @@ De huidige versie van de Digikoppeling Architectuur dient als basis. Bij de besp
 
 Het document Digikoppeling Architectuur heeft sinds 2020 een aantal werkversies gekend. Hieronder volgt een overzicht en verantwoording:
 
-### Bespreking 10 december 2020
+### Bespreking 10 december 2020 in TO
 
-De eerste versie van de nieuwe Digikoppeling Architectuur is in november tijdens een aantal werkgroepsessie met TO leden besproken. Het TO van 20 december 2020 heeft besloten om de [Digikoppeling Architectuur](https://centrumvoorstandaarden.github.io/Architectuur2.0-metRestfulAPI/), samen het nieuwe [Digikoppeling REST API profiel](https://centrumvoorstandaarden.github.io/DigikoppelingRestfulApiProfiel/) in [Openbare Consultatie](https://github.com/Logius-standaarden/Openbare-Consultaties) te brengen.
+De eerste versie van de nieuwe Digikoppeling Architectuur is in november tijdens een aantal werkgroepsessie met TO leden besproken. Het TO van 10 december 2020 heeft besloten om de [Digikoppeling Architectuur](https://centrumvoorstandaarden.github.io/Architectuur2.0-metRestfulAPI/), samen het nieuwe [Digikoppeling REST API profiel](https://centrumvoorstandaarden.github.io/DigikoppelingRestfulApiProfiel/) in [Openbare Consultatie](https://github.com/Logius-standaarden/Openbare-Consultaties) te brengen.
 
 ### Openbare Consultatie december-februari
 
-De beide versies, Architectuur en REST API profiel zijn in december 2020 tot en met februari 2021 openbaar geconsulteerd. In februari is aan de leden van het TO een email verzonden waarin om input is gevraagd en op een bijgewerkte versie is gewezen.
+De beide versies, Architectuur en REST API profiel, zijn in december 2020 tot en met februari 2021 openbaar geconsulteerd. In februari is aan de leden van het TO een email verzonden waarin om input is gevraagd en op een bijgewerkte versie is gewezen.
 
-Op de openbare consultatie van de Digikoppeling Architectuur is per email één inhoudelijke reactie binnengekomen. Die email De aangedragen punten zijn zoveel mogelijk geadresseerd. zie paragraaf [verwerking issues]()
-
+Op de openbare consultatie van de Digikoppeling Architectuur is per email één inhoudelijke reactie binnengekomen. De aangedragen punten zijn zoveel mogelijk geadresseerd. Zie volgende paragraaf
 ### Verwerking issues
 
 Een uitgebreide mail van DICTU en de reactie hierop is geplaatst op [Github issues](https://github.com/centrumvoorstandaarden/Architectuur2.0-metRestfulAPI/issues/#2). Hierop zijn in de werkversie van het Architectuur document een aantal wijzigingen doorgevoerd:
 
-- Paragraaf toegevoegd [Van uitwisseling van gestructureerde berichten' naar 'gestructureerde gegevensuitwisseling](https://centrumvoorstandaarden.github.io/Architectuur2.0-metRestfulAPI/#van-uitwisseling-van-gestructureerde-berichten-naar-gestructureerde-gegevensuitwisseling)
+- Paragraaf toegevoegd [Van 'uitwisseling van gestructureerde berichten' naar 'gestructureerde gegevensuitwisseling'](https://centrumvoorstandaarden.github.io/Architectuur2.0-metRestfulAPI/#van-uitwisseling-van-gestructureerde-berichten-naar-gestructureerde-gegevensuitwisseling)
 - Paragraaf over [Melding (Transactie)](https://centrumvoorstandaarden.github.io/Architectuur2.0-metRestfulAPI/#melding-transactie) toegevoegd
-- bijlage C: [NORA principes](https://centrumvoorstandaarden.github.io/Architectuur2.0-metRestfulAPI/#bijlage-c-nora-architectuurprincipes) bijgewerkt 
+- Bijlage C: [NORA principes](https://centrumvoorstandaarden.github.io/Architectuur2.0-metRestfulAPI/#bijlage-c-nora-architectuurprincipes) bijgewerkt 
 
 Verder zijn kleine wijzigingen in figuren en referenties doorgevoerd
 
