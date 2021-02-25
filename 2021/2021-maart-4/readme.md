@@ -20,7 +20,7 @@ Het TO wordt gehouden van 13:30 - 15:00 via Webex. De uitnodiging is per email v
    - [5.2 Consultatieversie Digikoppeling Architectuur](https://centrumvoorstandaarden.github.io/Architectuur2.0-metRestfulAPI/snapshot.html)
 6. **Digikoppeling Beveiligingstandaarden en -voorschriften**
    - [**6.1 Oplegnotitie Digikoppeling Beveiligingsdocument**](Bijlage_6.1_Oplegnotitie_Digikoppeling_Beveiligingsvoorschriften.pdf)
-   - [6.2 Release Notes](Bijlage_6.2_20210301_Release_Notes_Wijziging_Digikoppeling_Standaard_documentatie)
+   - [6.2 Release Notes](Bijlage_6.2_20210301_Release_Notes_Wijziging_Digikoppeling_Standaard_documentatie.pdf)
    - [6.3 Digikoppeling Beveiligingstandaarden en -voorschriften (pdf)](Bijlage_6.3_Digikoppeling_Beveiligingsstandaarden_en_voorschriften_v1.4.pdf)
    - [6.3 Digikoppeling Beveiligingstandaarden en -voorschriften (html)](https://logius-standaarden.github.io/Digikoppeling-Beveiligingsstandaarden-en-voorschriften/snapshot.html)
    - [6.4 Digikoppeling Gebruik en Achtergrond Certificaten (pdf)](Bijlage_6.4_Digikoppeling_Gebruik_en_achtergrond_certificaten_v1.6.1.pdf)
