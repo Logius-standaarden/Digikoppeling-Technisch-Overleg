@@ -1,4 +1,4 @@
-# Nieuwe manier van publiceren en interactie Digikoppeling documemten
+# Nieuwe manier van publiceren en interactie Digikoppeling documenten
 
 ## Inleiding
 
