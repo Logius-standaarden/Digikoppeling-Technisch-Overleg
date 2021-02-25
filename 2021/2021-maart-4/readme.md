@@ -9,16 +9,17 @@ Het TO wordt gehouden van 13:30 - 15:00 via Webex. De uitnodiging is per email v
 - [Notulen](#notulen.md) 
 - Digikoppeling API Profiel
   - [oplegnotitie Digikoppeling API Profiel](dkapi.md)
-  - link naar profiel
+  - [Consultatieversie Digikoppeling REST API Profiel](https://centrumvoorstandaarden.github.io/DigikoppelingRestfulApiProfiel/snapshot.html)
 - Digikoppeling Architectuur
   - [oplegnotitie Digikoppeling Architectuur](oplegnotitie_digikoppeling_architectuur.md)
-  - link naar dk Arch
+  - [Consultatieversie Digikoppeling Architectuur](https://centrumvoorstandaarden.github.io/Architectuur2.0-metRestfulAPI/snapshot.html)
 - Digikoppeling Beveiligingstandaarden en -voorschriften
   - [oplegnotitie Digikoppeling Beveiligingsdocument](dkbev.md)
   - link naar releasenotes
-  - link naar dk bev 
-  - link naar dk gebrcert
+  - [Digikoppeling Beveiligingstandaarden en -voorschriften (HTML)](https://logius-standaarden.github.io/Digikoppeling-Beveiligingsstandaarden-en-voorschriften/snapshot.html)
+  - [Digikoppeling Gebruik en Achtergrond Certificaten (HTML)](https://logius-standaarden.github.io/Digikoppeling-Gebruik-en-achtergrond-certificaten/snapshot.html)
 - Publicatie Digikoppeling documentatie
-  - link naar publicatie.centrumvoorstandaarden.nl
-  - link naar github
+  - [Oplegnotitie publicatie standaarden](2021/2021-maart-4/oplegnotitie_publicatie_standaarden.md)
+- Best Practice ebMS2: correlatie van berichten
+  - [Oplegnotitie nieuwe Best Practices ebMS2](2021/2021-maart-4/oplegnotitie_wijziging_ebmps_best_practices.md)
 - NLX en Digikoppeling REST API Profiel
