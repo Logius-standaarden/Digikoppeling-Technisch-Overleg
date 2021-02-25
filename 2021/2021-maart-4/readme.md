@@ -11,7 +11,7 @@ Het TO wordt gehouden van 13:30 - 15:00 via Webex. De uitnodiging is per email v
   - [oplegnotitie Digikoppeling API Profiel](dkapi.md)
   - link naar profiel
 - Digikoppeling Architectuur
-  - [oplegnotitie Digikoppeling Architectuur](dkarch.md)
+  - [oplegnotitie Digikoppeling Architectuur](oplegnotitie_digikoppeling_architectuur.md)
   - link naar dk Arch
 - Digikoppeling Beveiligingstandaarden en -voorschriften
   - [oplegnotitie Digikoppeling Beveiligingsdocument](dkbev.md)
