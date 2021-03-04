@@ -11,6 +11,7 @@ Het TO wordt gehouden van 13:30 - 15:00 via Webex. De uitnodiging is per email v
    - [**2.1 Concept verslag (pdf)**](Bijlage_2.1_Concept_verslag_TO_DK_10_december_2020.pdf)/ [ 2.1 Concept verslag (md)](Bijlage_2.1_Concept_verslag_TO_DK_10_december_2020.md)
 3. **Mededelingen**
    - [**3.1 Oplegnotitie nieuwe Best Practice ebMS2 (md)**](oplegnotitie_wijziging_ebmps_best_practices.md)
+   - [Roadmap Digikoppeling 20/21](https://www.logius.nl/diensten/digikoppeling/documentatie/digikoppeling-roadmap-2020-2021)
 
 4. **Digikoppeling API Profiel**
    - [**4.1 Oplegnotitie Digikoppeling API Profiel (pdf)**](Bijlage_4_Oplegnotitie_Digikoppeling_Rest_API_Profiel_1.0.pdf)
