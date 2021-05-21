@@ -6,7 +6,7 @@ Deze repository bevat de agenda, notulen en vergaderstukken van het Technisch Ov
 
 | Datum | Tijd | Locatie | Stukken | Bijzonderheden |
 | ----- | ---- | ------- | ------- | -------------- |
-|27 mei 2021|13:30 -15:00|Webex||||
+|27 mei 2021|13:30 -15:00|Webex|[2021_05_27](2021/2021_05_27)|||
 
 ## Archief Technisch Overleg
 
