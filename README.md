@@ -6,7 +6,7 @@ Deze repository bevat de agenda, notulen en vergaderstukken van het Technisch Ov
 
 | Datum | Tijd | Locatie | Stukken | Bijzonderheden |
 | ----- | ---- | ------- | ------- | -------------- |
-|23 sep 2021|13:30 -15:00|Webex|[2021_09_23](2021/2021_09_23)|||
+|2 dec 2021|13:30 -15:00|Webex|[2021_12_02](2021/2021_12_02)|||
 
 
 ## Archief Technisch Overleg
@@ -15,3 +15,4 @@ Deze repository bevat de agenda, notulen en vergaderstukken van het Technisch Ov
 | ----- | ---- | ------- | ------- | -------------- |
 | 4 maart 2021 | 13:30 - 15:00 | Webex | [2021/2021-maart-4](2021/2021-maart-4/readme.md) | (geen) |
 |27 mei 2021|13:30 -15:00|Webex|[2021_05_27](2021/2021_05_27)|||
+|23 sep 2021|13:30 -15:00|Webex|[2021_09_23](2021/2021_09_23)|||
