@@ -60,6 +60,7 @@
                 <td class="confluenceTd" colspan="1" style="border: 1px solid rgb(193, 199, 208); padding: 7px 10px; vertical-align: top; text-align: left; min-width: 8px; width: 60.5392%;">
                     <p style="margin: 0px; padding: 0px;">Toepassing van ebMS3/AS4 (eDelivery profiel) ter vervanging van ebMS2.&nbsp;</p>
                     <p style="margin: 10px 0px 0px; padding: 0px;">Vraag is of en wanneer de oudere versie te vervangen is door de nieuwe<br><em>bespreken wat Logius en het TO dienen te ondernemen (en wanneer) om naar een antwoord toe te kunnen werken.</em></p>
+                    <p> <a href="https://github.com/Logius-standaarden/Digikoppeling-Technisch-Overleg/blob/main/2021/2021_12_02/TO%20DigiKoppeling%20eDelivery%20AS4.pdf">EMBS3 AS4 Presentatie TO September</a> )
                 </td>
                 <td class="confluenceTd" colspan="1" style="border: 1px solid rgb(193, 199, 208); padding: 7px 10px; vertical-align: top; text-align: left; min-width: 8px; width: 26.7157%;"><br></td>
             </tr>
