@@ -28,7 +28,7 @@
             </tr>
             <tr>
                 <td class="confluenceTd" colspan="1" style="border: 1px solid rgb(193, 199, 208); padding: 7px 10px; vertical-align: top; text-align: left; min-width: 8px; width: 12.7451%;">13:35-14:05</td>
-                <td class="confluenceTd" style="border: 1px solid rgb(193, 199, 208); padding: 7px 10px; vertical-align: top; text-align: left; min-width: 8px; width: 60.5392%;">
+                <td class="confluenceTd" style="border: 1px solid rgb(193, 199, 208); padding: 7px 10px; vertical-align: top; text-align: left; min-width: 8px; width: 60.5392%;">         <p> Roadmap: <BR> zie </P>
                     <p style="margin: 0px; padding: 0px;"><a href="https://github.com/Logius-standaarden/Digikoppeling-Technisch-Overleg/blob/main/2021/2021_12_02/Concept%20Roadmap%20Digkoppeling_2022-2023.md" style="color: rgb(0, 82, 204); text-decoration: var(--aui-link-decoration);">Roadmap 2022/2023</a></p>
                     <p style="margin: 10px 0px 0px; padding: 0px;"><br></p>
                     <ul style="margin: 10px 0px 0px; padding-left: 22px; list-style-type: disc;">
