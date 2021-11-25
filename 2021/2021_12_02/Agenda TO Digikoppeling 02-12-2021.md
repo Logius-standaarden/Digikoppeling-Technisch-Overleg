@@ -18,7 +18,7 @@
                 <td class="confluenceTd" colspan="1" style="border: 1px solid rgb(193, 199, 208); padding: 7px 10px; vertical-align: top; text-align: left; min-width: 8px; width: 26.7157%;"><strong>&nbsp;Opmerking</strong></td>
             </tr>
             <tr>
-                <td class="confluenceTd" colspan="1" style="border: 1px solid rgb(193, 199, 208); padding: 7px 10px; vertical-align: top; text-align: left; min-width: 8px; width: 12.7451%;">5m</td>
+                <td class="confluenceTd" colspan="1" style="border: 1px solid rgb(193, 199, 208); padding: 7px 10px; vertical-align: top; text-align: left; min-width: 8px; width: 12.7451%;">13:30-13:35</td>
                 <td class="confluenceTd" style="border: 1px solid rgb(193, 199, 208); padding: 7px 10px; vertical-align: top; text-align: left; min-width: 8px; width: 60.5392%;">
                     <p style="margin: 0px; padding: 0px;">Mededelingen:</p>
                     <p style="margin: 10px 0px 0px; padding: 0px;">- Update opname DK REST API-Profiel</p>
@@ -27,7 +27,7 @@
                 <td class="confluenceTd" colspan="1" style="border: 1px solid rgb(193, 199, 208); padding: 7px 10px; vertical-align: top; text-align: left; min-width: 8px; width: 26.7157%;"><br></td>
             </tr>
             <tr>
-                <td class="confluenceTd" colspan="1" style="border: 1px solid rgb(193, 199, 208); padding: 7px 10px; vertical-align: top; text-align: left; min-width: 8px; width: 12.7451%;">20m</td>
+                <td class="confluenceTd" colspan="1" style="border: 1px solid rgb(193, 199, 208); padding: 7px 10px; vertical-align: top; text-align: left; min-width: 8px; width: 12.7451%;">13:35-14:05</td>
                 <td class="confluenceTd" style="border: 1px solid rgb(193, 199, 208); padding: 7px 10px; vertical-align: top; text-align: left; min-width: 8px; width: 60.5392%;">
                     <p style="margin: 0px; padding: 0px;"><a href="https://logius-prd.confluence.odc-noord.nl/pages/viewpage.action?pageId=126752545" style="color: rgb(0, 82, 204); text-decoration: var(--aui-link-decoration);">Roadmap 2022/2023</a></p>
                     <p style="margin: 10px 0px 0px; padding: 0px;"><br></p>
@@ -47,7 +47,7 @@
                 <td class="confluenceTd" colspan="1" style="border: 1px solid rgb(193, 199, 208); padding: 7px 10px; vertical-align: top; text-align: left; min-width: 8px; width: 26.7157%;"><br></td>
             </tr>
             <tr>
-                <td class="confluenceTd" colspan="1" style="border: 1px solid rgb(193, 199, 208); padding: 7px 10px; vertical-align: top; text-align: left; min-width: 8px; width: 12.7451%;">15m</td>
+                <td class="confluenceTd" colspan="1" style="border: 1px solid rgb(193, 199, 208); padding: 7px 10px; vertical-align: top; text-align: left; min-width: 8px; width: 12.7451%;">14:05-14:25</td>
                 <td class="confluenceTd" colspan="1" style="border: 1px solid rgb(193, 199, 208); padding: 7px 10px; vertical-align: top; text-align: left; min-width: 8px; width: 60.5392%;">
                     <p style="margin: 0px; padding: 0px;">Update: Identficatie &amp; Routering</p>
                     <p style="margin: 10px 0px 0px; padding: 0px;">- Identificatie van Organisaties, Organisatieonderdelen en Voorzieningen (Best Practice)</p>
@@ -56,11 +56,18 @@
                 <td class="confluenceTd" colspan="1" style="border: 1px solid rgb(193, 199, 208); padding: 7px 10px; vertical-align: top; text-align: left; min-width: 8px; width: 26.7157%;"><br></td>
             </tr>
             <tr>
-                <td class="confluenceTd" colspan="1" style="border: 1px solid rgb(193, 199, 208); padding: 7px 10px; vertical-align: top; text-align: left; min-width: 8px; width: 12.7451%;">15m</td>
+                <td class="confluenceTd" colspan="1" style="border: 1px solid rgb(193, 199, 208); padding: 7px 10px; vertical-align: top; text-align: left; min-width: 8px; width: 12.7451%;">14:25-14:45</td>
                 <td class="confluenceTd" colspan="1" style="border: 1px solid rgb(193, 199, 208); padding: 7px 10px; vertical-align: top; text-align: left; min-width: 8px; width: 60.5392%;">
                     <p style="margin: 0px; padding: 0px;">Toepassing van ebMS3/AS4 (eDelivery profiel) ter vervanging van ebMS2.&nbsp;</p>
                     <p style="margin: 10px 0px 0px; padding: 0px;">Vraag is of en wanneer de oudere versie te vervangen is door de nieuwe<br><em>bespreken wat Logius en het TO dienen te ondernemen (en wanneer) om naar een antwoord toe te kunnen werken.</em></p>
                 </td>
+                <td class="confluenceTd" colspan="1" style="border: 1px solid rgb(193, 199, 208); padding: 7px 10px; vertical-align: top; text-align: left; min-width: 8px; width: 26.7157%;"><br></td>
+            </tr>
+                        <tr>
+                <td class="confluenceTd" colspan="1" style="border: 1px solid rgb(193, 199, 208); padding: 7px 10px; vertical-align: top; text-align: left; min-width: 8px; width: 12.7451%;">14:45-15:00</td>
+                <td class="confluenceTd" colspan="1" style="border: 1px solid rgb(193, 199, 208); padding: 7px 10px; vertical-align: top; text-align: left; min-width: 8px; width: 60.5392%;">
+                    <p style="margin: 0px; padding: 0px;">Rondvraag & Afsluiting.&nbsp;</p>
+                                    </td>
                 <td class="confluenceTd" colspan="1" style="border: 1px solid rgb(193, 199, 208); padding: 7px 10px; vertical-align: top; text-align: left; min-width: 8px; width: 26.7157%;"><br></td>
             </tr>
         </tbody>
