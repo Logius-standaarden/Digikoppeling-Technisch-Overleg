@@ -15,7 +15,7 @@ Agenda
 
 | Tijd | Onderwerp | Opmerking |
 | --- | --- | --- |
-| 13:30-13:35 | Mededelingen:<br><br>\- Update opname DK REST API-Profiel<br><br>\- Introductie Alexander |     |
+| 13:30-13:35 | Mededelingen:<br><br>\- Update opname DK REST API-Profiel<br><br>\- Introductie Alexander Green |     |
 | 13:35-13:40 | Verslag vorig TO 23-9-2021:<br><br> [Verslag TO Digikoppeling 23-9-2021](https://github.com/Logius-standaarden/Digikoppeling-Technisch-Overleg/blob/main/2021/2021_09_23/Concept%20verslag%20TO%20DK%2023%20september%202021.pdf)|     |
 | 13:40-14:05 | Roadmap:  <br>zie<br>[Roadmap 2022/2023](https://github.com/Logius-standaarden/Digikoppeling-Technisch-Overleg/blob/main/2021/2021_12_02/Concept%20Roadmap%20Digkoppeling_2022-2023.md)<BR><br>* \> Toevoegen RESTful API profiel aan Digikoppeling<br>* \> Signing & Encryptie toevoegen aan RESTful API profiel<br>* \> Aanvulling Digikoppeling governance<br>* \> Verbeteren Informatievoorziening / Nieuwe wijze van Publiceren<br>* \> Best Practice Identificatie van Organisaties, Organisatieonderdelen en voorzieningen<br>* \> Analyse knelpunten Routering en Intermediairs in gegevensverkeer<br>* \> Verkennen mogelijk gebruik ebMS3/AS4<br>* \> Interoperabiliteit platformen WUS bij gebruik MTOM in combinatie met WS-Security (signing)<br>* \> Doorontwikkeling RESPEC/Digikoppeling template voor publicatie van specificaties<br>* \> Update Beheermodel / aansluiting op Logius Standaarden BOMOS generiek beheer model & governance |     |
 | 14:05-14:25 | Update: Identficatie & Routering<br><br>\- Identificatie van Organisaties, Organisatieonderdelen en Voorzieningen (Best Practice)<br><br>\- Knelpunten Routering en Intermediairs in gegevensverkeer (Analyse) |     |
