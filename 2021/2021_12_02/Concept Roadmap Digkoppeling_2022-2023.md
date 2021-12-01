@@ -39,7 +39,7 @@ De Roadmap Digikoppeling heeft als doel te beschrijven hoe de Digikoppeling stan
 
 De samenstelling van deze Roadmap is opgesteld door de productgroep Digikoppeling van Logius. Hierbij is gekeken naar de (toekomstige) ontwikkelingen rond de Digikoppeling standaard, vragen van het Technisch Overleg Digikoppeling en lopende vragen en wensen vanuit de markt over de voorzieningen. Vervolgens is een aantal onderwerpen benoemd die als project opgepakt zullen worden en is er gerangschikt op prioriteit.
 
-De onderwerpen voor het standaardendeel van de roadmap zijn in **DATUM** besproken door het Technisch Overleg (TO) en de concept roadmap is in **DATUM** ter vaststelling ingediend. De leden van het TO konden hier zowel mondeling als schriftelijk op reageren en deze reacties zijn meegenomen in voorliggende definitieve versie.
+De onderwerpen voor het standaardendeel van de roadmap zijn in **DATUM** besproken door het Technisch Overleg (TO) en de concept roadmap is in **DATUM** ter vaststelling ingediend. De leden van het TO konden hier zowel mondeling als schriftelijk op reageren en deze reacties zijn meegenomen in voorliggende **[concept/definitieve]** versie.
 
 ### Positionering Digikoppeling
 
