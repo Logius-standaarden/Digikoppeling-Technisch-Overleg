@@ -1,3 +1,12 @@
+
+|  |   |
+|------------------------|-------------------------------------|
+| Betreft  | **Verslag Technisch Overleg Digikoppeling** |
+| Vergaderdatum en -tijd | 2 december 2021 - 13:30 uur  |
+| Status  | Concept  |
+<br>
+
+
 Aanwezigen
 ----------
 
