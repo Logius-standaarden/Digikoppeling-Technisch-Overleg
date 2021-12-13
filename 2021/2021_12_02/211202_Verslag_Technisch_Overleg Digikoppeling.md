@@ -108,7 +108,7 @@ Vijlbrief: ebms wordt uit verplichting toegepast. Als de ebms2 niet meer verplic
 Wisse stelt voor een werkgroep te beginnen.
 
 Onderstaande leden melden zich hiervoor aan:
-Maark Backer
-Hans Sinnige
-Antoon Bijen
-Tom Vijlbrief
+- Mark Backer
+- Hans Sinnige
+- Antoon Bijen
+- Tom Vijlbrief
