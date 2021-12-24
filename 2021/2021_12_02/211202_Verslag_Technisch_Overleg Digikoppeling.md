@@ -43,7 +43,9 @@ Peter presenteert de volgende punten.
 
 #### - Toevoegen RESTful API profiel aan Digikoppeling
 
-Signing & Encryptie toevoegen aan RESTful API profiel
+geen opm.
+
+#### - Signing & Encryptie toevoegen aan RESTful API profiel
 
 Reinhoud: Beveiligingsextensies bevat signing en encryptie. Wordt dit gecombineerd?
 
@@ -55,11 +57,19 @@ Van der Plas: Idee om encrypted files out of bound te sturen. Link: <https://ww
 
 #### - Aanvulling Digikoppeling governance
 
+geen opm.
+
 #### - Verbeteren Informatievoorziening
+
+geen opm.
 
 #### - Analyse knelpunten Routering en Intermediairs in gegevensverkeer
 
+geen opm.
+
 #### - Verkennen mogelijk gebruik ebMS3/AS4
+
+Zie apart agendapunt
 
 #### - Interoperabiliteit platformen WUS bij gebruik MTOM in combinatie met WS-Security (signing)
 
@@ -67,11 +77,19 @@ Zwaan houdt zich hiermee bezig
 
 #### - Doorontwikkeling RESPEC/Digikoppeling template voor publicatie van specificaties
 
+geen opm.
+
 #### - Update Beheermodel / aansluiting op Logius Standaarden BOMOS generiek beheer model & governance
+
+geen opm.
 
 #### - Lange termijn visie : Hoe om te gaan met uitfasering/vervanging van profielen
 
+geen opm.
+
 #### - Periodiek actualiseren architectuur
+
+geen opm.
 
 #### Vragen roadmap
 
@@ -81,7 +99,7 @@ Sinnige vraagt naar het tijdspad. ebMS3 begint pas Q3 terwijl zij er al mee bezi
 
 Presentatie Peter Haasnoot. Dit onderwerp is opgenomen op de roadmap.
 
-### Ebms3
+### Ebms3 binnen Digikoppeling
 
 Sinnige: Gefaseerd overstappen naar ebms3. Ebms2 is voor sommige leveranciers EOL.
 
