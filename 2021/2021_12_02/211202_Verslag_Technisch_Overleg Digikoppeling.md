@@ -41,6 +41,8 @@ Peter presenteert de volgende punten.
 
 ### Roadmap 2022/2023
 
+(Zie ook [Roadmap Digikoppeling 22/23](https://github.com/Logius-standaarden/Digikoppeling-Algemeen/blob/main/Digikoppeling_Roadmap_2022_2023.md) )
+
 #### - Toevoegen RESTful API profiel aan Digikoppeling
 
 geen opm.
