@@ -6,7 +6,7 @@ Deze repository bevat de agenda, notulen en vergaderstukken van het Technisch Ov
 
 | Datum | Tijd | Locatie | Stukken | Bijzonderheden |
 | ----- | ---- | ------- | ------- | -------------- |
-|3 maart 2022|13:30 -15:00|Webex|[2022_03_03](2021/2021_03_03)|||
+|3 maart 2022|13:30 -15:00|Webex|[2022_03_03](2022/2022_03_03)|||
 
 
 ## Archief Technisch Overleg
