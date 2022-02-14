@@ -1,3 +1,3 @@
-# Stukken TO Digigkoppeling
+# Stukken TO Digikoppeling
 
 Stukken worden hier geplaatst
